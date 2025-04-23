@@ -32,7 +32,6 @@ This Lua module is designed for Roblox environments and allows developers to:
 - **Detailed Exfiltration Logs:** Every monitored event is timestamped and contextualized for security audits.
 - **Exportable Logs:** Output logs in JSON or pretty ASCII table for post-analysis.
 - **Custom Env Emulation:** Create locked-down, monitored script environments with custom function replacements.
-- **No Page Breaks:** PDF exports remain as a continuous, undivided document.
 
 ## Installation
 
