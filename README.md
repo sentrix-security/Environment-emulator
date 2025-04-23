@@ -138,11 +138,4 @@ local customHttpService = SecurityMonitor.Emulate_Libraries(game:GetService("Htt
 1. Fork this repository and create a new feature branch.
 2. Make changes and add tests where appropriate.
 3. Submit a pull request with a clear description of your changes.
-
-## License
-
-This project is provided under the MIT License.
-
-Copyright © 2024 Roblox Security Monitoring Module Contributors.
-
-Made with Genspark
+4. 
